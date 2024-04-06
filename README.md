@@ -6,7 +6,8 @@
 
 ### การเข้าหัวสายแลน
    - UTP (Unshielded Twisted Pair) จำนวน 7 เส้น
-   - การเข้าหัวแบบสายไขว้ 568B
+   - การต่อแบบตรง (Straight-through Cable หรือ Direct Cable) เพื่อเชื่อมต่อจากเครื่องคอมพิวเตอร์ ไปยังอุปกรณ์ Network
+![568B](./Other/Straight_through_Cable_568B.jpg)
 
 ### การต่อสายเครือข่าย:
    - ต่อสาย Internet ที่มี IP Address **192.168.204.XXX** เข้ากับ **port WAN1** ของ Fortigate Firewall 
