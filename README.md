@@ -7,7 +7,10 @@
 ### การเข้าหัวสายแลน
    - UTP (Unshielded Twisted Pair) จำนวน 7 เส้น
    - การต่อแบบตรง (Straight-through Cable หรือ Direct Cable) เพื่อเชื่อมต่อจากเครื่องคอมพิวเตอร์ ไปยังอุปกรณ์ Network
-![568B](./Other/Straight_through_Cable_568B.jpg)
+     
+![568B](./image/Straight_through_Cable_568B.jpg)
+
+image by เคที.ฮาร์ดแวร์เซอร์วิส
 
 ### การต่อสายเครือข่าย:
    - ต่อสาย Internet ที่มี IP Address **192.168.204.XXX** เข้ากับ **port WAN1** ของ Fortigate Firewall 
@@ -43,6 +46,6 @@
 - สิ่งที่ได้ศึกษาในวันนี้แต่หลงลืมไปหรือยังไม่เข้าใจทั้งหมด จะไม่ขออธิบายเพื่อป้องกันความผิดพลาด ขออภัยย~
 
 ## Diagram
-![Diagram day2](./other/Diagram_xOps2024_week_2.png)
+![Diagram Lab 2](./image/Diagram_xOps2024_week_2.png)
 
 
