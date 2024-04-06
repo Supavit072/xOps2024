@@ -43,6 +43,6 @@
 - สิ่งที่ได้ศึกษาในวันนี้แต่หลงลืมไปหรือยังไม่เข้าใจทั้งหมด จะไม่ขออธิบายเพื่อป้องกันความผิดพลาด ขออภัยย~
 
 ## Diagram
-![Diagram day2](./Diagram_xOps2024_week_2.png)
+![Diagram day2](./other/Diagram_xOps2024_week_2.png)
 
 
