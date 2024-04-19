@@ -1,7 +1,7 @@
 # FORTINET FORTISWITCH 424D POE
 
-![FORTINET FORTISWITCH 424D POE](../image/fortinet_fortiswitch_424d_poe.png)
-![FORTINET FORTISWITCH 424D POE_B](../image/fortinet_fortiswitch_424d_poe_B.png)
+![FORTINET FORTISWITCH 424D POE](/image/fortinet_fortiswitch_424d_poe.png)
+![FORTINET FORTISWITCH 424D POE_B](/image/fortinet_fortiswitch_424d_poe_B.png)
 
 ### ภาพรวม
 
