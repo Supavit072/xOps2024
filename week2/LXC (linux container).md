@@ -1,5 +1,5 @@
 ## LXC (Linux Containers)
-
+![lxc](/image/lxc1.webp)
 ### ความหมายของ LXC
 LXC (Linux Containers) เป็นเทคโนโลยีการสร้างและจัดการ containers ในระบบปฏิบัติการ Linux ที่ช่วยให้ผู้ใช้สามารถสร้างและเริ่มต้นใช้งานพลังความสามารถของเทคโนโลยี containerization ได้อย่างง่ายดาย
 
@@ -7,7 +7,9 @@ LXC (Linux Containers) เป็นเทคโนโลยีการสร้
 - **Isolation**: LXC ช่วยให้สามารถแยกแยะระหว่างแอปพลิเคชันและบริการต่างๆ ใน containers เพื่อลดความขัดแย้งและเพิ่มความเป็นส่วนตัว
 - **Resource Efficiency**: ด้วยการใช้งาน kernel แบบร่วมกัน (shared kernel) ของระบบปฏิบัติการ Linux และการแบ่งแยกทรัพยากรระหว่าง containers ทำให้มีประสิทธิภาพในการใช้ทรัพยากร
 - **Flexibility**: ผู้ใช้สามารถสร้าง containers ตามความต้องการและจัดการกับทรัพยากรได้ตามต้องการ
-
+  
+![lxc1](/image/EUXeGou.png)
+![lxc2](/image/B2Qvs65.png)
 ### การใช้งาน LXC
 1. **การสร้าง Container**: ผู้ใช้สามารถสร้าง container ใหม่โดยใช้คำสั่ง lxc-create
 2. **การเริ่มต้นและจัดการ Container**: คำสั่ง lxc-start และ lxc-stop ใช้ในการเริ่มต้นและหยุดการทำงานของ containers ตามลำดับ
