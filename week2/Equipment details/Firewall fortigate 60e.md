@@ -1,3 +1,9 @@
+# Firewall fortigate 60e
+
+### คำอธิบายโดยสรุป
+   FortiGate 60E รุ่นยอดนิยมสำหรับองค์กรขนาดเล็กถึงกลาง รองรับการเชื่อมต่อ 60 users มี Firewall Throughput 3 Gbps และ Threat Protection 200 Mbps มี Port GE RJ45 10 port 
+     
+![Firewall fortigate 60e](../image/fortigate_60e.png)
 
 ## Hardware Specifications
 
