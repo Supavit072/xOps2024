@@ -8,7 +8,7 @@
    - UTP (Unshielded Twisted Pair) จำนวน 7 เส้น
    - การต่อแบบตรง (Straight-through Cable หรือ Direct Cable) เพื่อเชื่อมต่อจากเครื่องคอมพิวเตอร์ ไปยังอุปกรณ์ Network
      
-![568B](./xOps2024/image/Straight_through_Cable_568B.jpg)
+![568B](../image/Straight_through_Cable_568B.jpg)
 
 image by เคที.ฮาร์ดแวร์เซอร์วิส
 
@@ -50,7 +50,7 @@ image by เคที.ฮาร์ดแวร์เซอร์วิส
 - สิ่งที่ได้ศึกษาในวันนี้แต่หลงลืมไปหรือยังไม่เข้าใจทั้งหมด จะไม่ขออธิบายเพื่อป้องกันความผิดพลาด ขออภัยย~
 
 ## Diagram
-![Diagram Lab 2](./image/Diagram_xOps2024_week_2.png)
+![Diagram Lab 2](../image/Diagram_xOps2024_week_2.png)
 
 
 
