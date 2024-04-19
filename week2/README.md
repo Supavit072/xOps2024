@@ -8,7 +8,7 @@
    - UTP (Unshielded Twisted Pair) จำนวน 7 เส้น
    - การต่อแบบตรง (Straight-through Cable หรือ Direct Cable) เพื่อเชื่อมต่อจากเครื่องคอมพิวเตอร์ ไปยังอุปกรณ์ Network
      
-![568B](./image/Straight_through_Cable_568B.jpg)
+![568B](./xOps2024/image/Straight_through_Cable_568B.jpg)
 
 image by เคที.ฮาร์ดแวร์เซอร์วิส
 
