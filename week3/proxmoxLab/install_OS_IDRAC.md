@@ -44,7 +44,7 @@
 - ตั้งค่า `vmbr851` โดยเลือก "Create" และเลือก "OVS Bridge" จากนั้นตั้งค่า IP Address เป็น 10.85.xxx.xxx/24 และ Gateway เป็น 10.85.xxx.xxx
 - ตั้งค่า Bridge Port เป็น `eno1`
 - สร้าง `ovs bond0` โดยเลือก "Create" และเลือก "OVS Bond"
-- ![568B](/image/Straight_through_Cable_568B.jpg)
+- ![proxmox_network](/image/proxmox_network.png)
 
 ### 8. การทำ Cluster
 - ทำการติดตั้ง Proxmox ทั้ง 3 Node: cpe001, cpe002, cpe003
