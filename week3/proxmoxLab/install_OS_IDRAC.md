@@ -34,8 +34,7 @@
 - ลบ `Enterprise Repository`
 - เพิ่ม `No-Subscription Repository` โดยการคลิก "Add" และเลือก "No-Subscription"
 - เพิ่ม `Ceph Reef No-Subscription Repository` ในลักษณะเดียวกัน
-- ![568B](/image/Straight_through_Cable_568B.jpg)
-- ![568B](/image/Straight_through_Cable_568B.jpg)
+- ![node_update_repositories](/image/node_update_repositories001.png)
 
 ### 7. การกำหนด Network
 - ไปที่ `Datacenter` และเลือก `Node` ที่ต้องการกำหนด Network
