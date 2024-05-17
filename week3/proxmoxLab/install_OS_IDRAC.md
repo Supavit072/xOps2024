@@ -3,7 +3,7 @@
 ## ขั้นตอนการติดตั้ง Proxmox 8.2 ผ่าน IDRAC
 
 ### 1. เชื่อมต่อ VPN ของเซิร์ฟเวอร์ผ่าน FortiClient VPN
-- ![568B](/image/Straight_through_Cable_568B.jpg)
+- ![fortiClientVPN](/image/fortiClientVPN.png)
 
 ### 2. การเข้า Login IDRAC ผ่าน IP
 - เข้าสู่ระบบ IDRAC โดยใช้ IP 10.85.xxx.xxx
