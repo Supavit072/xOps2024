@@ -7,8 +7,7 @@
 
 ### 2. การเข้า Login IDRAC ผ่าน IP
 - เข้าสู่ระบบ IDRAC โดยใช้ IP 10.85.xxx.xxx
-- ![568B](/image/Straight_through_Cable_568B.jpg)
-- ![568B](/image/Straight_through_Cable_568B.jpg)
+- ![idrac_login](/image/idrac_login.png)
 
 ### 3. การบูตแผ่นติดตั้ง Proxmox
 - เข้าสู่เมนู Virtual Media ใน IDRAC
