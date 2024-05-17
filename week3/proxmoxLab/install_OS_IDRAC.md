@@ -27,7 +27,7 @@
 
 ### 5. การเข้าสู่ Proxmox
 - เปิดเบราว์เซอร์และเข้าสู่ Proxmox ด้วย IP 10.85.xxx.xxx:8006
-- ![568B](/image/Straight_through_Cable_568B.jpg)
+- ![ProxmoxLogin](/image/ProxmoxLogin.png)
 
 ### 6. การอัปเดต Repository ของ Proxmox
 - เลือก `Repositories`
